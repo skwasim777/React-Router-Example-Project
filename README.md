@@ -60,7 +60,7 @@ We welcome contributions to improve this project. If you'd like to contribute, h
 9. Merge: Once your changes are approved, they will be merged into the main project.
 ## Screenshots
 
-![App Screenshots](<![Alt text](<React-Router\src\Screenshot (169).png>))
-![App Screenshot](![Alt text](<React-Router\src\Screenshot (168).png>))
-![App Screenshots](<![Alt text](<src\Screenshot (167).png>))
+![App Screenshot 1](src/Screenshot%20(169).png)
+![App Screenshot 2](src/Screenshot%20(168).png)
+![App Screenshot 3](src/Screenshot%20(167).png)
 
